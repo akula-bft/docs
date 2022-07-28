@@ -49,7 +49,6 @@ Akula supports the following standard JSONRPC calls:
 - `ots_getBlockDetailsByHash`
 - `ots_getBlockTransactions`
 - `ots_hasCode`
-- `ots_traceTransaction`
 - `ots_getTransactionError`
 - `ots_getTransactionBySenderAndNonce`
 - `ots_getContractCreator`
